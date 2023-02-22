@@ -3,6 +3,7 @@ package org.computer;
 public class Desktop extends Computer{
 	private void desktopSize() {
 		System.out.println("The size of desktop is 13 inch");
+		System.out.println("The size of desktop is 15 inch");
 
 	}
 
